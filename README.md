@@ -4,7 +4,7 @@ An n-channel MOSFET drawn layer by layer in the SiliWiz layout simulator, checke
 
 > **Course:** EEE 212 Semiconductor Devices and Modeling, Middle East Technical University Northern Cyprus Campus (Spring 2025)<br>
 > **Author:** Tunay Arıcı<br>
-> **Instructor:** Assoc. Prof. Dr. Tayfun Nesimoğlu
+> **Instructor:** Assoc. Prof. Dr. Tayfun Nesimoğlu<br>
 > **Tool:** [SiliWiz](https://app.siliwiz.com/)
 
 <p align="center">
