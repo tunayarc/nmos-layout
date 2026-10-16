@@ -21,6 +21,7 @@ An n-channel MOSFET drawn layer by layer in the SiliWiz layout simulator, checke
 - [Effect of gate geometry](#effect-of-gate-geometry)
 - [Fabrication](#fabrication)
 - [Repository layout](#repository-layout)
+- [License](#license)
 
 ## The layout
 
@@ -111,7 +112,12 @@ The report ends with a short study of how these layers are made, based on the IH
 ```
 nmos-layout/
 ├── README.md
+├── LICENSE
 ├── report/
 │   └── nmos-layout-report.pdf
 └── media/       figures used in this page
 ```
+
+## License
+
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it for any purpose, provided you give appropriate credit to the author, Tunay Arıcı.
