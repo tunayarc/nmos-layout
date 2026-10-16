@@ -2,8 +2,9 @@
 
 An n-channel MOSFET drawn layer by layer in the SiliWiz layout simulator, checked against its design rules, and simulated by sweeping the gate voltage. The accompanying report connects each layout layer to the physical structure it creates and closes with a look at how such layers are actually fabricated.
 
-> **Course:** EEE 212 Semiconductor Devices and Modeling, Middle East Technical University Northern Cyprus Campus (Spring 2026)<br>
+> **Course:** EEE 212 Semiconductor Devices and Modeling, Middle East Technical University Northern Cyprus Campus (Spring 2025)<br>
 > **Author:** Tunay Arıcı<br>
+> **Instructor:** Assoc. Prof. Dr. Tayfun Nesimoğlu
 > **Tool:** [SiliWiz](https://app.siliwiz.com/)
 
 <p align="center">
